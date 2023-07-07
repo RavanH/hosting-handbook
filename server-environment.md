@@ -72,6 +72,7 @@ The PHP extensions listed below are _highly recommended_ in order to allow WordP
 *   [pcre](https://www.php.net/manual/en/book.pcre.php) - Increases performance of pattern matching in code searches.
 *   [xml](https://www.php.net/manual/en/book.xml.php) (requires libxml) - Used for XML parsing, such as from a third-party site.
 *   [zip](https://www.php.net/manual/en/book.zip.php) (requires libzip >= 0.11; recommended libzip >= 1.6) - Used for decompressing Plugins, Themes, and WordPress update packages.
+*   [igbinary](https://www.php.net/manual/en/book.igbinary.php) - Increases performance as a drop in replacement for the standard PHP serializer.
 
 The PHP extensions listed below are _recommended_ to allow some WordPress cache (if necessary).
 
